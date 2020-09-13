@@ -1,10 +1,9 @@
-
 {
   "filters": [
     {
       "key": "assetType",
       "text": "Asset Type",
-      "assetType": ["Bank Owned", "ForeClosure Sales"],
+      "assetType": ["Bank Owned", "ForeClosure Sales"]
     },
     {
       "key": "features",
@@ -17,205 +16,198 @@
         "Laundry",
         "Heating",
         "ParkingLot",
-        "AC",
-      ],
+        "AC"
+      ]
     },
     {
       "key": "auctionType",
       "text": "Autcion Type",
-      "auctionType": ["Online Auction", "In persion auction"],
-    },
+      "auctionType": ["Online Auction", "In persion auction"]
+    }
   ],
-  savedClaims: [
+  "savedClaims": [
     {
-      id: 1,
-      firstName: "Test First Name",
-      lastName: "Test Last Name",
-      companyName: "Test Company Name",
-      companyNumber: "Test Company Number",
-      addressLine1: "Test Address Line 1",
-      addressline2: "Test Address Line2",
-      city: "Test City",
-      province: "LA",
-      phoneNumber: "Test Phone Number",
-      email: "Test Email",
-      status: "In Progress",
-    },
+      "id": 1,
+      "firstName": "Test First Name",
+      "lastName": "Test Last Name",
+      "companyName": "Test Company Name",
+      "companyNumber": "Test Company Number",
+      "addressLine1": "Test Address Line 1",
+      "addressline2": "Test Address Line2",
+      "city": "Test City",
+      "province": "LA",
+      "phoneNumber": "Test Phone Number",
+      "email": "Test Email",
+      "status": "In Progress"
+    }
   ],
-  userAccounts: [
+  "userAccounts": [
     {
-      id: 1,
-      name: "Test User Accout 1",
-      phoneNumber: "1236547889",
-      0: {
-        firstName: "First Name 1",
-        lastName: "Last name 1",
-        phoneNumber: "phone Number 1",
-        email: "Email 1",
-        companyName: "Company 1",
-        addressLine1: "test address line 1",
-        province: "LA",
+      "id": 1,
+      "name": "Test User Accout 1",
+      "phoneNumber": "1236547889",
+      "0": {
+        "firstName": "First Name 1",
+        "lastName": "Last name 1",
+        "phoneNumber": "phone Number 1",
+        "email": "Email 1",
+        "companyName": "Company 1",
+        "addressLine1": "test address line 1",
+        "province": "LA"
       },
-      2: {
-        symptom: "Motor problem",
-        description: "To Test description of this field",
-        roundTrip: 30,
-        numberOfVisits: 10,
-        timeInMinutes: "2hours 30 minutes",
-        costForReplacement: "450",
-      },
+      "2": {
+        "symptom": "Motor problem",
+        "description": "To Test description of this field",
+        "roundTrip": 30,
+        "numberOfVisits": 10,
+        "timeInMinutes": "2hours 30 minutes",
+        "costForReplacement": "450"
+      }
     },
     {
-      id: 2,
-      name: "Test User 2",
-      phoneNumber: "Test User phone number 2",
-      0: {
-        firstName: "First Name 2",
-        lastName: "Last name 2",
-        phoneNumber: "phone Number 2",
-        email: "Email 2",
-        companyName: "Company 2",
-        addressLine1: "test address line 2",
-      },
+      "id": 2,
+      "name": "Test User 2",
+      "phoneNumber": "Test User phone number 2",
+      "0": {
+        "firstName": "First Name 2",
+        "lastName": "Last name 2",
+        "phoneNumber": "phone Number 2",
+        "email": "Email 2",
+        "companyName": "Company 2",
+        "addressLine1": "test address line 2"
+      }
     },
     {
-      id: 3,
-      name: "Test User 3",
-      phoneNumber: "phone Number 3",
-      0: {
-        firstName: "First Name 3",
-        lastName: "Last name 3",
-        phoneNumber: "phone Number 3",
-        email: "Email 3",
-        companyName: "Company 3",
-        addressLine1: "test address line 3",
-      },
-    },
+      "id": 3,
+      "name": "Test User 3",
+      "phoneNumber": "phone Number 3",
+      "0": {
+        "firstName": "First Name 3",
+        "lastName": "Last name 3",
+        "phoneNumber": "phone Number 3",
+        "email": "Email 3",
+        "companyName": "Company 3",
+        "addressLine1": "test address line 3"
+      }
+    }
   ],
-  toolInformation: [
+  "toolInformation": [
     {
-      id: 1,
-      toolName: "Drilling Machine",
-      modelNumber: "ABC12365478",
-      phoneNumber: "phone Number 1",
-      email: "Email 1",
-      companyName: "Company 1",
-      addressLine1: "test address line 1",
-      img:
-        "https://images.all-free-download.com/images/graphicthumb/cordless_drill_200766.jpg",
-      type: "Type-1",
+      "id": 1,
+      "toolName": "Drilling Machine",
+      "modelNumber": "ABC12365478",
+      "phoneNumber": "phone Number 1",
+      "email": "Email 1",
+      "companyName": "Company 1",
+      "addressLine1": "test address line 1",
+      "img": "https://images.all-free-download.com/images/graphicthumb/cordless_drill_200766.jpg",
+      "type": "Type-1"
     },
     {
-      id: 2,
-      toolName: "Washing Machine",
-      modelNumber: "XYB125578ZZUY",
-      phoneNumber: "phone Number 2",
-      email: "Email 2",
-      companyName: "Company 2",
-      addressLine1: "test address line 2",
-      img:
-        "https://images-na.ssl-images-amazon.com/images/I/71T%2B-iy7TvL._SL1500_.jpg",
-      type: "Type-1",
+      "id": 2,
+      "toolName": "Washing Machine",
+      "modelNumber": "XYB125578ZZUY",
+      "phoneNumber": "phone Number 2",
+      "email": "Email 2",
+      "companyName": "Company 2",
+      "addressLine1": "test address line 2",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71T%2B-iy7TvL._SL1500_.jpg",
+      "type": "Type-1"
     },
     {
-      id: 3,
-      toolName: "DishWasher",
-      modelNumber: "AXYZ2247899",
-      phoneNumber: "phone Number 3",
-      email: "Email 3",
-      companyName: "Company 3",
-      addressLine1: "test address line 3",
-      img:
-        "https://images-na.ssl-images-amazon.com/images/I/81RYDgA32ML._SL1500_.jpg",
-      type: "Type-1",
-    },
+      "id": 3,
+      "toolName": "DishWasher",
+      "ModelNumber": "AXYZ2247899",
+      "phoneNumber": "phone Number 3",
+      "email": "Email 3",
+      "companyName": "Company 3",
+      "addressLine1": "test address line 3",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81RYDgA32ML._SL1500_.jpg",
+      "type": "Type-1"
+    }
   ],
-  toolDetails: [
+  "toolDetails": [
     {
-      toolId: 1,
-      imgUrl: "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
-      name: "Example with Rectangle boxed",
-      areas: [
+      "toolid": 1,
+      "imgUrl": "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
+      "name": "Example with Rectangle boxed",
+      "areas": [
         {
-          name: "image1",
-          id: 0,
-          shape: "poly",
-          coords: [25, 33, 27, 300, 128, 240, 128, 94],
-          preFillColor: "green",
-          fillColor: "blue",
+          "name": "image1",
+          "id": 0,
+          "shape": "poly",
+          "coords": [25, 33, 27, 300, 128, 240, 128, 94],
+          "preFillColor": "green",
+          "fillColor": "blue"
         },
         {
-          name: "image2",
-          id: 1,
-          shape: "poly",
-          coords: [219, 118, 220, 210, 283, 210, 284, 119],
-          preFillColor: "pink",
+          "name": "image2",
+          "id": 1,
+          "shape": "poly",
+          "coords": [219, 118, 220, 210, 283, 210, 284, 119],
+          "preFillColor": "pink"
         },
         {
-          name: "image3",
-          id: 2,
-          shape: "poly",
-          coords: [381, 241, 383, 94, 462, 53, 457, 282],
-          fillColor: "yellow",
+          "name": "image3",
+          "id": 2,
+          "shape": "poly",
+          "coords": [381, 241, 383, 94, 462, 53, 457, 282],
+          "fillColor": "yellow"
         },
         {
-          name: "image4",
-          id: 3,
-          shape: "poly",
-          coords: [245, 285, 290, 285, 274, 239, 249, 238],
-          preFillColor: "red",
+          "name": "image4",
+          "id": 3,
+          "shape": "poly",
+          "coords": [245, 285, 290, 285, 274, 239, 249, 238],
+          "preFillColor": "red"
         },
-        { name: "image5", id: 4, shape: "circle", coords: [170, 100, 25] },
-      ],
+        {
+          "name": "image5",
+          "id": 4,
+          "shape": "circle",
+          "coords": [170, 100, 25]
+        }
+      ]
     },
     {
-      toolId: 2,
-      imgUrl: "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
-      name: "Duplicate - Example with Rectangle boxed",
-      areas: [
+      "toolid": 2,
+      "imgUrl": "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
+      "name": "Duplicate - Example with Rectangle boxed",
+      "areas": [
         {
-          name: "image1",
-          id: 0,
-          shape: "poly",
-          coords: [25, 33, 27, 300, 128, 240, 128, 94],
-          preFillColor: "green",
-          fillColor: "blue",
+          "name": "image1",
+          "id": 0,
+          "shape": "poly",
+          "coords": [25, 33, 27, 300, 128, 240, 128, 94],
+          "preFillColor": "green",
+          "fillColor": "blue"
         },
-        // {
-        //   name: "image 2",
-        //   id: 1,
-        //   shape: "poly",
-        //   coords: [219, 118, 220, 210, 283, 210, 284, 119],
-        //   preFillColor: "pink",
-        // },
         {
-          name: "image3",
-          id: 2,
-          shape: "poly",
-          coords: [381, 241, 383, 94, 462, 53, 457, 282],
-          fillColor: "yellow",
+          "name": "image3",
+          "id": 2,
+          "shape": "poly",
+          "coords": [381, 241, 383, 94, 462, 53, 457, 282],
+          "fillColor": "yellow"
         },
-        // {
-        //   name: "image 4",
-        //   id: 3,
-        //   shape: "poly",
-        //   coords: [245, 285, 290, 285, 274, 239, 249, 238],
-        //   preFillColor: "red",
-        // },
-        { name: "image5", id: 4, shape: "circle", coords: [170, 100, 25] },
-      ],
+        {
+          "name": "image5",
+          "id": 4,
+          "shape": "circle",
+          "coords": [170, 100, 25]
+        }
+      ]
     },
     {
-      toolId: 3,
-      imgUrl: "https://i.ytimg.com/vi/IwajDW59Z9M/maxresdefault.jpg",
-      name: "Engine Parts disassemble",
-      imgWidth: 1200,
-      areas: [
+      "toolId": 3,
+      "imgUrl": "https://i.ytimg.com/vi/IwajDW59Z9M/maxresdefault.jpg",
+      "name": "Engine Parts disassemble",
+      "imgWidth": 1200,
+      "areas": [
         {
-          name: "Crank Shaft",
-          id: 0,
-          shape: "poly",
-          coords: [
+          "name": "Crank Shaft",
+          "id": 0,
+          "shape": "poly",
+          "coords": [
             33,
             384,
             61,
@@ -297,13 +289,12 @@
             131,
             172,
             26,
-            348,
-          ],
-        },
-
-      ],
-    },
+            348
+          ]
+        }
+      ]
+    }
   ],
-  addProperty: [],
-  claimInformation: [],
-};
+  "addProperty": [],
+  "claimInformation": []
+}
