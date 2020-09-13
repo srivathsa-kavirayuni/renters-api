@@ -1,46 +1,4 @@
 {
-  "filters": [
-    {
-      "key": "assetType",
-      "text": "Asset Type",
-      "assetType": ["Bank Owned", "ForeClosure Sales"]
-    },
-    {
-      "key": "features",
-      "text": "Features",
-      "features": [
-        "Pets Allowed",
-        "Gas",
-        "Balcony",
-        "Garden",
-        "Laundry",
-        "Heating",
-        "ParkingLot",
-        "AC"
-      ]
-    },
-    {
-      "key": "auctionType",
-      "text": "Autcion Type",
-      "auctionType": ["Online Auction", "In persion auction"]
-    }
-  ],
-  "savedClaims": [
-    {
-      "id": 1,
-      "firstName": "Test First Name",
-      "lastName": "Test Last Name",
-      "companyName": "Test Company Name",
-      "companyNumber": "Test Company Number",
-      "addressLine1": "Test Address Line 1",
-      "addressline2": "Test Address Line2",
-      "city": "Test City",
-      "province": "LA",
-      "phoneNumber": "Test Phone Number",
-      "email": "Test Email",
-      "status": "In Progress"
-    }
-  ],
   "userAccounts": [
     {
       "id": 1,
@@ -294,5 +252,5 @@
         }
       ]
     }
-  ],
+  ]
 }
