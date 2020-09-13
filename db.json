@@ -1,9 +1,5 @@
 
 {
-  login: {
-    message: "Logged in successfully",
-    text: `Your last logged in time is ${new Date()}`,
-  },
   filters: [
     {
       key: "assetType",
@@ -199,13 +195,6 @@
           coords: [381, 241, 383, 94, 462, 53, 457, 282],
           fillColor: "yellow",
         },
-        // {
-        //   name: "image 4",
-        //   id: 3,
-        //   shape: "poly",
-        //   coords: [245, 285, 290, 285, 274, 239, 249, 238],
-        //   preFillColor: "red",
-        // },
         { name: "image5", id: 4, shape: "circle", coords: [170, 100, 25] },
       ],
     },
@@ -309,137 +298,6 @@
     },
   ],
   propertiesData: [
-  {
-    url:
-      "https://media.istockphoto.com/photos/beautiful-luxury-home-exterior-at-twilight-picture-id1026205392?k=6&m=1026205392&s=612x612&w=0&h=pe0Pqbm7GKHl7cmEjf9Drc7Fp-JwJ6aTywsGfm5eQm4=",
-    title: "Duplex New modren Villa 1",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    new: true,
-    gallery: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
-      "https://previews.123rf.com/images/in4mal/in4mal1707/in4mal170700128/82724602-white-and-gray-simple-bathroom-with-shower-and-toilet.jpg",
-      "https://s3-ap-south-1.amazonaws.com/designcafe-dev/wp-content/uploads/2020/02/21005335/interior-design-ideas-for-hall.jpg",
-    ],
-  },
-  {
-    url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zRP0p6BHFzlzutSBa6niVkhIu9ngDj5-uyj3Ie2CNw_4kXcsMw&s",
-    title: "Duplex New modren Villa 2",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    gallery: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfvxuPkfSbzw1RwJi4LK53bjefGuqyHRcv-Q&usqp=CAU",
-      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://www.legacykitchens.com/news/wp-content/uploads/2018/10/Home-Design-Brief-New-York-Loft-Style-Astoria-Custom-Home.jpg",
-      "https://i.pinimg.com/originals/17/f8/ac/17f8ac6d11dfc008feed0f8a200ab3f3.jpg",
-      "https://previews.123rf.com/images/jrstock/jrstock1601/jrstock160100010/51697759-simple-bathroom-with-a-big-shower-cabin-with-glass-walls-and-support-handles.jpg",
-    ],
-  },
-  {
-    url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8esFNo419fctmDMRv2rXI9u-rR64J1vMbnyo4pFeGwNgx1hJDA&s",
-    title: "Duplex New modren Villa 3",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    new: true,
-    gallery: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
-      "https://previews.123rf.com/images/in4mal/in4mal1707/in4mal170700128/82724602-white-and-gray-simple-bathroom-with-shower-and-toilet.jpg",
-      "https://s3-ap-south-1.amazonaws.com/designcafe-dev/wp-content/uploads/2020/02/21005335/interior-design-ideas-for-hall.jpg",
-    ],
-  },
-  {
-    url:
-      "https://www.omgproperties.in/wp-content/uploads/2019/11/Budget-villas-in-palakkad.jpg",
-    title: "Duplex New modren Villa 4",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    gallery: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfvxuPkfSbzw1RwJi4LK53bjefGuqyHRcv-Q&usqp=CAU",
-      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://www.legacykitchens.com/news/wp-content/uploads/2018/10/Home-Design-Brief-New-York-Loft-Style-Astoria-Custom-Home.jpg",
-      "https://i.pinimg.com/originals/17/f8/ac/17f8ac6d11dfc008feed0f8a200ab3f3.jpg",
-      "https://previews.123rf.com/images/jrstock/jrstock1601/jrstock160100010/51697759-simple-bathroom-with-a-big-shower-cabin-with-glass-walls-and-support-handles.jpg",
-    ],
-  },
-
-  {
-    url:
-      "https://media.architecturaldigest.in/wp-content/uploads/2020/04/Bengaluru-home-Bodhi-Design-Studio-feature-image-768x768.jpg",
-    title: "Duplex New modren Villa 5",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    gallery: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
-      "https://previews.123rf.com/images/in4mal/in4mal1707/in4mal170700128/82724602-white-and-gray-simple-bathroom-with-shower-and-toilet.jpg",
-      "https://s3-ap-south-1.amazonaws.com/designcafe-dev/wp-content/uploads/2020/02/21005335/interior-design-ideas-for-hall.jpg",
-    ],
-  },
-  {
-    url:
-      "https://www.crismatec.com/python/ho/september-kerala-home-design-floor-plans-house_home-elements-and-style.jpg",
-    title: "Duplex New modren Villa 6",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    new: true,
-    gallery: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfvxuPkfSbzw1RwJi4LK53bjefGuqyHRcv-Q&usqp=CAU",
-      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://www.legacykitchens.com/news/wp-content/uploads/2018/10/Home-Design-Brief-New-York-Loft-Style-Astoria-Custom-Home.jpg",
-      "https://i.pinimg.com/originals/17/f8/ac/17f8ac6d11dfc008feed0f8a200ab3f3.jpg",
-      "https://previews.123rf.com/images/jrstock/jrstock1601/jrstock160100010/51697759-simple-bathroom-with-a-big-shower-cabin-with-glass-walls-and-support-handles.jpg",
-    ],
-  },
-  {
-    url:
-      "https://media.architecturaldigest.com/photos/5dd2c15fe248d80009fd02ba/16:9/w_768/191024_AD_Jason_Statham1591-2.jpg",
-    title: "Duplex New modren Villa 7",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    gallery: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
-      "https://previews.123rf.com/images/in4mal/in4mal1707/in4mal170700128/82724602-white-and-gray-simple-bathroom-with-shower-and-toilet.jpg",
-      "https://s3-ap-south-1.amazonaws.com/designcafe-dev/wp-content/uploads/2020/02/21005335/interior-design-ideas-for-hall.jpg",
-    ],
-  },
-  {
-    url:
-      "https://karnatakabank.com/sites/default/files/inline-images/img-apna-ghar_0.jpg",
-    title: "Duplex New modren Villa 8",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    gallery: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfvxuPkfSbzw1RwJi4LK53bjefGuqyHRcv-Q&usqp=CAU",
-      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://www.legacykitchens.com/news/wp-content/uploads/2018/10/Home-Design-Brief-New-York-Loft-Style-Astoria-Custom-Home.jpg",
-      "https://i.pinimg.com/originals/17/f8/ac/17f8ac6d11dfc008feed0f8a200ab3f3.jpg",
-      "https://previews.123rf.com/images/jrstock/jrstock1601/jrstock160100010/51697759-simple-bathroom-with-a-big-shower-cabin-with-glass-walls-and-support-handles.jpg",
-    ],
-  },
-  {
-    url:
-      "https://lh4.googleusercontent.com/proxy/FrcO5XNOzAmNx9-8kUBrSlwwlMmaMDhxsUxKlEUGJYgQHY-3PH1fLkxcreYI1bcpKQ8lFj7evxOlB4mNQ0hnPu_EnrVmBEG_uUbwRa89eprVwf6wv7oKFHqwC0AcvIFF2H5iRtz8eq1D1mrtuvRB_TkZjEY",
-    title: "Duplex New modren Villa 9",
-    description:
-      "New Villa s are a widespread group of squamate reptiles with over 6,000 species, ranging across all continents except Antarctica",
-    new: true,
-    gallery: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
-      "https://previews.123rf.com/images/in4mal/in4mal1707/in4mal170700128/82724602-white-and-gray-simple-bathroom-with-shower-and-toilet.jpg",
-      "https://s3-ap-south-1.amazonaws.com/designcafe-dev/wp-content/uploads/2020/02/21005335/interior-design-ideas-for-hall.jpg",
-    ],
-  },
 ],
   addProperty: [],
   claimInformation: [],
