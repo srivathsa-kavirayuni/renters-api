@@ -86,7 +86,7 @@
   ],
   "toolDetails": [
     {
-      "toolid": 1,
+      "toolId": 1,
       "imgUrl": "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
       "name": "Example with Rectangle boxed",
       "areas": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "toolid": 2,
+      "toolId": 2,
       "imgUrl": "https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg",
       "name": "Duplicate - Example with Rectangle boxed",
       "areas": [
